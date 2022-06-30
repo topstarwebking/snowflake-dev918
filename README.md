@@ -1,11 +1,30 @@
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Senior Blockchain | Full stack developer</h2>
+
+  <p>
+    <img align="right" width="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47e3irsdddmug0u3w61c38ghfr2qi107fc59ozy58t&rid=200.webp&ct=g" />
+  </p>
+  <p>
+  Hi there<br>
+  <br><br>
+Hi. I am rich experienced and professional full stack & blockchain developer with 7+ years of valuable experience in developing complex web applications (Front-End, Back-End) and blockchain projects. Familiar and adept in working with large applications, complex REST API, mobile applications using web technologies, finding out the best business and tech solutions for a project. Strong leadership skills and ability to work in a team and independently, properly distribute the load and perform tasks on time.<br><br>
+  I love to code. What started as a hobby turned into a career and a great passion of mine as I love to learn new things every day. I enjoy problem solving and reverse engineering. I'm excellent at communication and a great team player. 
+My main skills are: <br><br>
+  🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
+</p>
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full-Stack%20Software%20engineer;10+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+</p>
+<b> 🎬 I am ready to start your project right now.</b>
+<br />
+<br />
+💳 My Skills
+<p>
 
 > Programming languages.
 
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+    <a><img alt="Bash" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -29,6 +48,7 @@
     <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-43853D.svg?logo=web3.js&logoColor=white"></a>
     <a href="#"><img alt="Flikity.js" src="https://img.shields.io/badge/Flikity.js-68217A.svg?logo=flikity.js&logoColor=white"></a>
     <a href="#"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-7952B3.svg?logo=three.js&logoColor=white"></a>
+    <a href="#"><img alt="Three.js" src="https://img.shields.io/badge/Svelte-4A4A55.svg?logo=svelte&logoColor=white"></a>
     <a href="#"><img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-525252.svg?logo=chart.js&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
@@ -70,3 +90,29 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+<br />
+<br />
+</p>
+
+## <b>😇 My Github Stats</b>:
+
+</p>
+<p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=perfectdev000&column=7&theme=onedark" alt="white" /></p>
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=perfectdev000&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_title=true"> 
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=perfectdev000&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
+</p>
+<a href="https://github.com/WhiteNightDeveloper/WhiteNightDeveloper">
+  <img alt="perfectdev000's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=perfectdev000&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF&hide_title=true"/>
+</a>
+  
+</p>
+</details>
+<!--
+<div align="center">
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
+<p>
+Email: darkrut22@gmail.com<br/>
+</p>
+</div>
+-->
