@@ -94,9 +94,6 @@ My main skills are: <br><br>
 <br />
 <br />
 </p>
-
-## <b>😇 My Github Stats</b>:
-
 </p>
   
 </p>
