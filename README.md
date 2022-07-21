@@ -98,14 +98,6 @@ My main skills are: <br><br>
 ## <b>😇 My Github Stats</b>:
 
 </p>
-<p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=perfectdev000&column=7&theme=onedark" alt="white" /></p>
-<p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=perfectdev000&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_title=true"> 
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=perfectdev000&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
-</p>
-<a href="https://github.com/WhiteNightDeveloper/WhiteNightDeveloper">
-  <img alt="perfectdev000's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=perfectdev000&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF&hide_title=true"/>
-</a>
   
 </p>
 </details>
